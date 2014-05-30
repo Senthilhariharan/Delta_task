@@ -85,11 +85,7 @@ else if(document.getElementById('scon').value==10)
 	
 	 
 }
-function speedcontrol()                                   
-{
-var n=document.getElementById('scon').value;
 
-}
 </script>
 <br/>
 <input type="button" value="Startmotion" onclick="start();">
